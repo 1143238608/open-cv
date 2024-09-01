@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icon/backcolor2.jpg</file>
+    <file>icon/backcolor3.jpg</file>
+    <file>icon/backcolor.jpg</file>
+    <file>icon/logout.png</file>
+    <file>icon/user.png</file>
+    <file>icon/background1.jpg</file>
+    <file>icon/background2.jpg</file>
+    <file>icon/cancel.png</file>
+    <file>icon/home.png</file>
+    <file>icon/login.png</file>
+    <file>icon/index_bg.png</file>
+    <file>icon/register.png</file>
+    <file>icon/setting.png</file>
+    <file>icon/small.png</file>
+  </qresource>
+</RCC>
